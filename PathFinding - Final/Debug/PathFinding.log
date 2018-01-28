@@ -1,0 +1,28 @@
+﻿  PathFinding.cpp
+c:\users\daniel\desktop\pathfinding - final\pathfinding.cpp(213): warning C4018: '<': signed/unsigned mismatch
+c:\users\daniel\desktop\pathfinding - final\pathfinding.cpp(221): warning C4018: '<': signed/unsigned mismatch
+c:\users\daniel\desktop\pathfinding - final\pathfinding.cpp(235): warning C4018: '<': signed/unsigned mismatch
+c:\users\daniel\desktop\pathfinding - final\pathfinding.cpp(289): warning C4018: '<': signed/unsigned mismatch
+c:\users\daniel\desktop\pathfinding - final\pathfinding.cpp(367): warning C4018: '<': signed/unsigned mismatch
+c:\users\daniel\desktop\pathfinding - final\pathfinding.cpp(398): warning C4018: '<': signed/unsigned mismatch
+c:\users\daniel\desktop\pathfinding - final\pathfinding.cpp(420): warning C4018: '<': signed/unsigned mismatch
+c:\users\daniel\desktop\pathfinding - final\pathfinding.cpp(422): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\daniel\desktop\pathfinding - final\pathfinding.cpp(423): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\daniel\desktop\pathfinding - final\pathfinding.cpp(424): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\daniel\desktop\pathfinding - final\pathfinding.cpp(425): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\daniel\desktop\pathfinding - final\pathfinding.cpp(426): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\daniel\desktop\pathfinding - final\pathfinding.cpp(427): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\daniel\desktop\pathfinding - final\pathfinding.cpp(428): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\daniel\desktop\pathfinding - final\pathfinding.cpp(429): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\daniel\desktop\pathfinding - final\pathfinding.cpp(459): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\daniel\desktop\pathfinding - final\pathfinding.cpp(465): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\daniel\desktop\pathfinding - final\pathfinding.cpp(476): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\daniel\desktop\pathfinding - final\pathfinding.cpp(481): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\daniel\desktop\pathfinding - final\pathfinding.cpp(499): warning C4018: '<': signed/unsigned mismatch
+c:\users\daniel\desktop\pathfinding - final\pathfinding.cpp(507): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\daniel\desktop\pathfinding - final\pathfinding.cpp(513): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\daniel\desktop\pathfinding - final\pathfinding.cpp(523): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\daniel\desktop\pathfinding - final\pathfinding.cpp(529): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\daniel\desktop\pathfinding - final\pathfinding.cpp(615): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\daniel\desktop\pathfinding - final\pathfinding.cpp(616): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  PathFinding.vcxproj -> C:\Users\Daniel\Desktop\PathFinding - Final\\PathFindingDebug.exe

@@ -1,0 +1,7 @@
+﻿  PathFinding.cpp
+PathFinding.cpp(137): warning C4018: '<': signed/unsigned mismatch
+PathFinding.cpp(211): warning C4018: '<': signed/unsigned mismatch
+PathFinding.cpp(231): warning C4018: '<': signed/unsigned mismatch
+PathFinding.cpp(256): warning C4018: '<': signed/unsigned mismatch
+PathFinding.cpp(269): warning C4018: '<': signed/unsigned mismatch
+LINK : fatal error LNK1181: cannot open input file 'TL-Engine2017.lib'
